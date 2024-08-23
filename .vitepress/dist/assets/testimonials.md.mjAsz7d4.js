@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.Yvq-SOzX.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"testimonials.md","filePath":"testimonials.md"}'),s={name:"testimonials.md"};function o(n,i,r,c,m,l){return a(),e("div")}const d=t(s,[["render",o]]);export{_ as __pageData,d as default};
