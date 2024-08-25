@@ -15,7 +15,7 @@ hero:
       link: /testimonials
 
 features:
-  - title: Personalized SCP Generation
+  - title: Personalized Care Plan Generation
     details: Leverage Generative AI to create tailored Survivorship Care Plans, reducing the burden on healthcare providers, and making it more intuitive for patients.
   - title: Seamless Integration
     details: FHIR-enabled to ensure easy integration into existing hospital systems, improving care coordination.
@@ -24,4 +24,5 @@ features:
   - title: Real-World Validation
     details: Proven effectiveness through user studies with leading healthcare institutions.
 ---
+
 
