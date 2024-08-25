@@ -1,5 +1,7 @@
 ## About Us
 
+<div class="about-us">
+
 ### ![Jimeng Sun](assets/jimeng%20copy.jpeg)
 **Jimeng Sun (Chief Scientist)**  
 - Professor, Computer Science UIUC  
@@ -14,7 +16,7 @@
 
 ### ![Jathurshan Pradeepkumar](assets/jathurshan%20copy.jpeg)
 **Jathurshan Pradeepkumar (CTO & Head of AI)**  
-- PHd, AI for Healthcare @ UIUC
+- PhD Student, AI for Healthcare @ UIUC
 - Former Research Intern, GE Healthcare
 - Former researcher at Harvard University | University of Melbourne.
 
@@ -30,8 +32,10 @@
 
 ![Rubrik](assets/rubrik.png) ![UIUC](assets/uiuc.png) ![Palantir](assets/pltr.png) ![Microsoft](assets/ms.png)
 
+</div>
+
 <style>
-img {
+.about-us img {
     width: 100px;
     height: 100px;
     border-radius: 50%;
@@ -41,7 +45,7 @@ img {
     margin-bottom: 10px;
 }
 
-p img, .logos img {
+.about-us p img, .about-us .logos img {
     width: 50px;
     height: auto;
     margin-right: 20px;
